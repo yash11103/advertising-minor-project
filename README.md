@@ -20,11 +20,6 @@ We used Logistic Regression, a supervised machine learning algorithm for binary 
 5. Model Evaluation 
 Accuracy of Model: 92%
 
-        	Predicted 0	Predicted 1
-Actual 0   	147	     6
-Actual 1   	18	       126
-
-
 
 6.Classification Report
 0:Precision=0.89, Recall=0.95, F1-Score=0.92
